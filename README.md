@@ -1,12 +1,20 @@
 ### Hi there, I'm Ross 👋
 
+### Tools & Technologies I use:
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- Node.js
+- Express.js
+- MongoDB
+- Postman
+- Git
+- NPM
 
-- 🔭 I’m currently working on ... Full stack Ecommerce Store
-- 🌱 I’m currently learning ... React.Js, PHP, mySQL, Wordpress
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm currently learning:
+- React.js
+- Sass
+- mySQL
+- Wordpress
+- PHP
