@@ -13,10 +13,8 @@
 - NPM
 
 ### What I'm currently learning:
-- React.js
 - Sass
 - mySQL
-- Wordpress
 - PHP
 
 
