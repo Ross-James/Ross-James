@@ -1,6 +1,6 @@
 ## Hey, I'm Ross 👋
 
-I'm a Junior Fullstack developer seeking new oppertunities to grow my career.
+I'm a Junior Fullstack developer seeking new opportunities to grow my career.
 
 ### Get To Know Me:
 - 💻 I'm currently working on building my GitHub profile.
