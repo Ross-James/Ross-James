@@ -2,15 +2,17 @@
 
 I'm a Junior Fullstack developer seeking new oppertunities to grow my career.
 
-### Languages & Tool's:
-- Html5
-- Sass/Scss/Css
-- JavaScript
-- Node Js
-
 ### Talking About Personal Stuff:
-- :man_technologist: I'm currently working on building my GitHub profile up.
-- :seedling: I'm currently learning PHP, mySQL.
+- 💻 I'm currently working on building my GitHub profile.
+- 🌱 I'm currently learning PHP, mySQL.
+- 🚀 I enjoy building Web Apps.
+
+## Languages & Tool's:
+- 👁️ HTML5, CSS3/Sass/Scss, Bootstrap
+- ⚙️ JavaScript(ES6)
+- 💽 Node.Js, Express.Js, MongoDB
+- 💻 Postman API, GIT
+
 
 
 
