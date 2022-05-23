@@ -1,21 +1,13 @@
-### Hi there, I'm Ross 👋
+### Hey, I'm Ross👋
 
-### Tools & Technologies I use:                               
-- HTML5                                                     
-- CSS3                                                      
-- JavaScript                                                
-- Bootstrap                                                 
-- Node.js                                                   
-- Express.js
-- MongoDB
-- Postman
-- Git
-- NPM
+I'm a Junior Fullstack developer seeking new oppertunities to grow my career.
 
-### What I'm currently learning:
-- Sass
-- mySQL
-- PHP
+## Languages & Tool's:
+
+
+##Talking About Personal Stuff:
+- :man_technologist: I'm currently working on building my GitHub profile up.
+- :seedling: I'm currently learning PHP, mySQL.
 
 
 
