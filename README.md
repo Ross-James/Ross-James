@@ -8,7 +8,7 @@ I'm a Junior Fullstack developer seeking new oppertunities to grow my career.
 - JavaScript
 - Node Js
 
-###Talking About Personal Stuff:
+### Talking About Personal Stuff:
 - :man_technologist: I'm currently working on building my GitHub profile up.
 - :seedling: I'm currently learning PHP, mySQL.
 
