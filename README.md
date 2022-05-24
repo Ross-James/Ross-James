@@ -9,8 +9,8 @@ I'm a Junior Fullstack developer seeking new opportunities to grow my career.
 
 
 ## Languages & Tool's:
-- 👁️ HTML5, CSS3/Sass/Scss, Bootstrap
-- ⚙️ JavaScript (ES6)
+- 👁️ HTML5, CSS3, Sass/Scss, Bootstrap
+- ⚙️ JavaScript
 - 🚀 Node.Js, Express.Js, MongoDB
 - 💻 Postman API, GIT
 
