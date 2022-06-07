@@ -1,4 +1,4 @@
-## Hey, I'm Ross 👋
+## Hi, I'm Ross 👋
 
 I'm a Junior Fullstack developer seeking new opportunities to grow my career.
 
