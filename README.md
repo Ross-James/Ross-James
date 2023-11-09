@@ -1,6 +1,6 @@
 ## Hi, I'm Ross 👋
 
-I'm a Junior web developer seeking new opportunities to grow my career.
+I'm a web developer seeking new opportunities to grow my career.
 
 ### Get To Know Me:
 - 🚀 I enjoy building Websites/Web Applications.
